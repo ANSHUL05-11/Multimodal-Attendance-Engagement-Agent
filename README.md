@@ -6,7 +6,7 @@ educators review session presence and classroom activity.
 **Live Demo:**(https://multimodal-attendance-engagement-agent-e2pdxdh94umcc3gdtjon6k.streamlit.app/)
 https://multimodal-attendance-engagement-agent-e2pdxhd94umcc3gdtjon6k.streamlit.app/
 **GitHub repository:**
-https://github.com/ANSHUL05-11/Multimodal-Attendance-Engagement-Agent\
+https://github.com/ANSHUL05-11/Multimodal-Attendance-Engagement-Agent
 **Demo video:** *Add your YouTube or Google Drive link here after
 recording.*
 
