@@ -226,7 +226,7 @@ Community Cloud and check the deployment status and logs.
 ## Project links
 
 -   **Live demo:**
-    https://multimodal-attendance-engagement-agent-e2pdxhd94umcc3gdtjon6k.streamlit.app/
+    https://multimodal-attendance-engagement-agent-e2pdxdh94umcc3gdtjon6k.streamlit.app/
 -   **Source code:**
     https://github.com/ANSHUL05-11/Multimodal-Attendance-Engagement-Agent
 -   **Demo video:** *Replace this line with the actual video URL after
