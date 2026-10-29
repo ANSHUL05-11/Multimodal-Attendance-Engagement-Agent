@@ -7,13 +7,8 @@ educators review session presence and classroom activity.
 https://multimodal-attendance-engagement-agent-e2pdxhd94umcc3gdtjon6k.streamlit.app/
 **GitHub repository:**
 https://github.com/ANSHUL05-11/Multimodal-Attendance-Engagement-Agent
-**Demo video:** *Add your YouTube or Google Drive link here after
-recording.*
 
-> **Important:** This is an educational prototype. Attendance outputs
-> are proposals that require human verification. Engagement scores are
-> experimental signal/activity heuristics, not validated measurements of
-> attention, emotion, learning, or academic performance.
+
 
 ## Features
 
